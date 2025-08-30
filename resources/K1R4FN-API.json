@@ -22,6 +22,10 @@
     "EID_CarCrash",
     "EID_ChelseaHotel",
     "EID_TriggerFinger",
+    "EID_KissKiss",
+    "EID_TrueLove",
+    "EID_FuzzBall",
+    "EID_LiftingAura",
     "EID_HiFive_JoinAdHocSquad",
     "EID_RespectThePeace_LeaveAdHocSquad",
     "EID_HiFive_JoinAdHocSquads",
@@ -29,8 +33,8 @@
   ],
 
   "override_vbucks": true,
-  "vbucks_amount": 71690,
+  "vbucks_amount": 200069,
 
   "override_crowns": true,
-  "crowns_total": 1069
+  "crowns_total": 869
 }
