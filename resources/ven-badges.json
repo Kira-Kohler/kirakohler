@@ -8,23 +8,23 @@
       "tooltip": "I",
       "badge": "https://www.kirakohler.es/resources/images/i-letteri.gif"
     },
-        {
+    {
       "tooltip": "R",
       "badge": "https://www.kirakohler.es/resources/images/r-letterr.gif"
     },
-        {
+    {
       "tooltip": "A",
       "badge": "https://www.kirakohler.es/resources/images/a-lettera.gif"
     }
   ],
       "1070400970628018246": [
     {
-      "tooltip": "Gay",
-      "badge": "https://www.kirakohler.es/resources/images/alexis-flag.png"
-    },
-        {
       "tooltip": "Humano en mantenimiento",
       "badge": "https://www.kirakohler.es/resources/images/alexis.webp"
+    },
+        {
+      "tooltip": "Gay",
+      "badge": "https://www.kirakohler.es/resources/images/alexis-flag.png"
     }
   ]
 }
