@@ -15,6 +15,16 @@
     {
       "tooltip": "A",
       "badge": "https://www.kirakohler.es/resources/images/a-lettera.gif"
+    },
+    {
+      "tooltip": "K1R4LABS ORG",
+      "badge": "https://www.kirakohler.es/resources/images/K1R4LABS-Circle.png"
+    }
+  ],
+    "1180581496952729723": [
+    {
+      "tooltip": "K1R4LABS ORG",
+      "badge": "https://www.kirakohler.es/resources/images/K1R4LABS-Circle.png"
     }
   ],
       "1070400970628018246": [
@@ -25,6 +35,12 @@
         {
       "tooltip": "Gay",
       "badge": "https://www.kirakohler.es/resources/images/alexis-flag.png"
+    }
+  ],
+      "1475119983976644739": [
+    {
+      "tooltip": "K1R4LABS ORG",
+      "badge": "https://www.kirakohler.es/resources/images/K1R4LABS-Circle.png"
     }
   ]
 }
